@@ -2,8 +2,8 @@
 
 # Colorize Black white Image
 
-This Deep Learning Project aims to provide colorizing black & white
-images with Python.
+**This Deep Learning Project aims to provide colorizing black & white
+images with Python.**
 
 In image colorization, we take a black and white image as input and
 produce a colored image. We will solve this project with OpenCV deep
